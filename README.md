@@ -16,7 +16,7 @@
 [<img src="https://img.utdstc.com/icon/ec0/4ea/ec04ea230c0ee7f85bd077fcd4c37f2f360b17aa6bebabe80dbbb127b58a4fed:200" width="30">](https://balsamiq.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48">](https://github.com/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFfFfWc1kVRvfJWuttlp1ZgF3BsYZEjUhag&usqp=CAU" width="48">](https://github.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48">](https://code.visualstudio.com/)
 
 
