@@ -12,11 +12,11 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/) 
 [<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
-[<img src="https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png" width="48">](https://jquery.com/) 
+[<img src="https://i.pinimg.com/originals/34/20/e5/3420e571b3d7a4a348d8fad91e3bfda4.png" width="48">](https://jquery.com/) 
 [<img src="https://img.utdstc.com/icon/ec0/4ea/ec04ea230c0ee7f85bd077fcd4c37f2f360b17aa6bebabe80dbbb127b58a4fed:200" width="30">](https://balsamiq.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48">](https://github.com/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV4TR7XW-3BaCjcrSW4ZvuXuyRrFMrTrsMXO3kvEtBirYvnVh1Ai92UYkxN3Dm17axFA&usqp=CAU" width="48">](https://github.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48">](https://code.visualstudio.com/)
 
 
