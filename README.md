@@ -1,11 +1,10 @@
-# Hi  I'm Juan Manuel González
+# Hi, I'm Juan Manuel González
 ### Front-End Developer
 
 #### I am a person passionate about programming and web development who always seeks to be learning new technologies and constantly improve. Currently looking for experience in the IT world
 
 🔭 Technologies I have worked with:
 
-#### Front-end
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/) 
