@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmg22&layout=compact&theme=radical)
 
-
+ 
 
 
 📫 You can find me on LinkedIn:
