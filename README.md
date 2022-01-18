@@ -9,8 +9,9 @@
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/) 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/)
+[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="48">](https://firebase.google.com/)
 [<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/) 
 [<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48">](https://tailwindcss.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
