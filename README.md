@@ -21,7 +21,11 @@
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFfFfWc1kVRvfJWuttlp1ZgF3BsYZEjUhag&usqp=CAU" width="48">](https://github.com/)
 [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" width="48">](https://code.visualstudio.com/)
 
-🌱 I’m currently learning Next.js
+🌱 I’m currently learning:
+
+
+[<img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" width="48">](https://code.visualstudio.com/)
+
 
 ![JuanMG22 GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmg22&show_icons=true&theme=radical)
 
