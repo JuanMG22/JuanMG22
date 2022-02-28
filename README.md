@@ -24,7 +24,7 @@
 🌱 I’m currently learning:
 
 
-[<img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" width="48">](https://code.visualstudio.com/)
+[<img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" width="48">](https://nextjs.org/)
 
 
 ![JuanMG22 GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmg22&show_icons=true&theme=radical)
