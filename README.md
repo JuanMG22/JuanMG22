@@ -15,6 +15,7 @@
 [<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/) 
 [<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48">](https://tailwindcss.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
+[<img src="https://user-images.githubusercontent.com/88951217/158031000-3ac7b67e-477d-48b3-b001-e7c470e1a2c7.png" width="48">](https://dashboard.heroku.com/)
 [<img src="https://i.pinimg.com/originals/34/20/e5/3420e571b3d7a4a348d8fad91e3bfda4.png" width="48">](https://jquery.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
