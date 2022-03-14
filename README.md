@@ -35,6 +35,8 @@ Other tools:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFfFfWc1kVRvfJWuttlp1ZgF3BsYZEjUhag&usqp=CAU" width="48">](https://github.com/)
 [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" width="48">](https://code.visualstudio.com/)
+[<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="48">](https://insomnia.rest/download)
+
 
 ![JuanMG22 GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmg22&show_icons=true&theme=radical)
 
