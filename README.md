@@ -45,7 +45,6 @@ Other tools:
 
  
 
-
 📫 You can find me on LinkedIn:
 
 ✔ https://www.linkedin.com/in/juan-manuel-gonz%C3%A1lez-041576218/
