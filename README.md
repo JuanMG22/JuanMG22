@@ -11,6 +11,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/)
+[<img src="https://user-images.githubusercontent.com/88951217/159796872-4f50285b-633b-486e-80ba-d8efc50389c8.png" width="48">](https://github.com/nfl/react-helmet)
 [<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/) 
 [<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48">](https://tailwindcss.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
@@ -29,7 +30,7 @@
 
 [<img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" width="48">](https://nextjs.org/)
 
-Other tools:
+⚡Other cool tools:
 
 [<img src="https://user-images.githubusercontent.com/88951217/159796233-65401106-416e-4231-84d9-80d3609d73f1.svg" width="48">](https://vitejs.dev/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
