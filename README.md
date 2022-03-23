@@ -25,11 +25,6 @@
 [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="48">](https://firebase.google.com/)
 [<img src="https://user-images.githubusercontent.com/88951217/158031000-3ac7b67e-477d-48b3-b001-e7c470e1a2c7.png" width="48">](https://dashboard.heroku.com/)
 
-
-🌱 I’m currently learning:
-
-[<img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" width="48">](https://nextjs.org/)
-
 ⚡Other cool tools:
 
 [<img src="https://user-images.githubusercontent.com/88951217/159796233-65401106-416e-4231-84d9-80d3609d73f1.svg" width="48">](https://vitejs.dev/)
@@ -38,6 +33,10 @@
 [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" width="48">](https://code.visualstudio.com/)
 [<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="48">](https://insomnia.rest/download)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
+
+🌱 I’m currently learning:
+
+[<img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" width="48">](https://nextjs.org/)
 
 
 
