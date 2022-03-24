@@ -36,7 +36,7 @@
 
 🌱 I’m currently learning:
 
-[<img src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" width="48">](https://nextjs.org/)
+[<img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" width="48">](https://jestjs.io/)
 
 
 
