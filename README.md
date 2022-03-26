@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Juan
-## <img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30px"> Frontend Developer & Musician   <img src="https://slm-assets.secondlife.com/assets/4642669/original/RedRockOnGuitar.gif?1322026609" width="30px"> 
+## <img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30px"> Frontend Developer & Musician <img src="https://slm-assets.secondlife.com/assets/4642669/original/RedRockOnGuitar.gif?1322026609" width="30px"> 
 
 
 
