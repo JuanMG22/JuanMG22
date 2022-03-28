@@ -38,6 +38,7 @@
 
 ### 🌱 I’m currently learning:
 
+[<img src="https://user-images.githubusercontent.com/88951217/160500640-11e2d8c8-4c2b-47f8-900f-781d22fb5ea4.png" width="48">](https://vuejs.org/)
 [<img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" width="48">](https://jestjs.io/)
 
 
