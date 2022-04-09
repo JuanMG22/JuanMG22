@@ -41,7 +41,7 @@
 
 ### 🌱 I’m currently learning:
 
-
+[<img src="https://lh3.googleusercontent.com/-yqgj3NXi79Q/X3s5XWRc3MI/AAAAAAAABBE/SI89ellU9BkBRmfO_Q5HhIRWSGwQGKlqgCLcBGAsYHQ/image.png" width="50">](https://jwt.io/)
 
 
 
