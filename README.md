@@ -27,6 +27,9 @@
 [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="48">](https://firebase.google.com/)
 [<img src="https://user-images.githubusercontent.com/88951217/158031000-3ac7b67e-477d-48b3-b001-e7c470e1a2c7.png" width="48">](https://dashboard.heroku.com/)
 
+### 🚔Testing:
+[<img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" width="48">](https://jestjs.io/)
+
 ### ⚡Other cool tools:
 
 [<img src="https://user-images.githubusercontent.com/88951217/159796233-65401106-416e-4231-84d9-80d3609d73f1.svg" width="48">](https://vitejs.dev/)
@@ -38,7 +41,7 @@
 
 ### 🌱 I’m currently learning:
 
-[<img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" width="48">](https://jestjs.io/)
+
 
 
 
