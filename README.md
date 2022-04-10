@@ -23,6 +23,7 @@
 
 [<img src="https://user-images.githubusercontent.com/88951217/158155534-b5395a67-1357-4908-a790-a702f93688e7.png" width="48">](https://nodejs.org/es/)
 [<img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" width="48">](https://expressjs.com/es/)
+[<img src="https://lh3.googleusercontent.com/-yqgj3NXi79Q/X3s5XWRc3MI/AAAAAAAABBE/SI89ellU9BkBRmfO_Q5HhIRWSGwQGKlqgCLcBGAsYHQ/image.png" width="50">](https://jwt.io/)
 [<img src="https://user-images.githubusercontent.com/88951217/158079144-7ec92e39-0c96-4094-9939-18043a5dfada.png" width="48">](https://www.mongodb.com/)
 [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="48">](https://firebase.google.com/)
 [<img src="https://user-images.githubusercontent.com/88951217/158031000-3ac7b67e-477d-48b3-b001-e7c470e1a2c7.png" width="48">](https://dashboard.heroku.com/)
@@ -39,9 +40,9 @@
 [<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="48">](https://insomnia.rest/download)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 
-### 🌱 I’m currently learning:
+<!-- ### 🌱 I’m currently learning: -->
 
-[<img src="https://lh3.googleusercontent.com/-yqgj3NXi79Q/X3s5XWRc3MI/AAAAAAAABBE/SI89ellU9BkBRmfO_Q5HhIRWSGwQGKlqgCLcBGAsYHQ/image.png" width="50">](https://jwt.io/)
+
 
 
 
