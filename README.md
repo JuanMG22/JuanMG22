@@ -35,6 +35,8 @@
 
 ### ⚡Other cool tools:
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="48">](https://www.npmjs.com/)
+[<img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48">](https://yarnpkg.com/)
 [<img src="https://user-images.githubusercontent.com/88951217/159796233-65401106-416e-4231-84d9-80d3609d73f1.svg" width="48">](https://vitejs.dev/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFfFfWc1kVRvfJWuttlp1ZgF3BsYZEjUhag&usqp=CAU" width="48">](https://github.com/)
