@@ -44,7 +44,8 @@
 [<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="48">](https://insomnia.rest/download)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 
-<!-- ### 🌱 I’m currently learning: -->
+### 🌱 I’m currently learning:
+[<img src="https://www.genexus.com/media/images/genexus_logo_svg.svg?timestamp=20181205190859" width="128">](https://www.genexus.com/es/)
 
 
 ![JuanMG22 GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmg22&show_icons=true&theme=radical)
