@@ -6,7 +6,7 @@
 
 
 
-### I am a person passionate about programming and web development who always seeks to be learning new technologies and constantly improve. Currently looking for experience in  IT 
+### I am a person passionate about programming and web development who always seeks to be learning new technologies and constantly improve.
 
 ### 👓 Frontend:
  
