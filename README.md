@@ -36,8 +36,6 @@
 
 ### ⚡Other cool tools:
 
-[<img src="https://www.genexus.com/media/images/genexus_logo_svg.svg?timestamp=20181205190859" width="128">](https://www.genexus.com/es/)
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="48">](https://www.npmjs.com/)
 [<img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48">](https://yarnpkg.com/)
 [<img src="https://user-images.githubusercontent.com/88951217/159796233-65401106-416e-4231-84d9-80d3609d73f1.svg" width="48">](https://vitejs.dev/)
@@ -47,6 +45,7 @@
 [<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="48">](https://insomnia.rest/download)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
 
+[<img src="https://www.genexus.com/media/images/genexus_logo_svg.svg?timestamp=20181205190859" width="128">](https://www.genexus.com/es/)
 
 <!---
 ### 🌱 I’m currently learning:
