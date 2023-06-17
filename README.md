@@ -44,7 +44,7 @@
 [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" width="48">](https://code.visualstudio.com/)
 [<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="48">](https://insomnia.rest/download)
 
-[<img src="https://www.genexus.com/media/images/genexus_logo_svg.svg?timestamp=20181205190859" width="32">](https://www.genexus.com/es/)
+[<img src="https://www.genexus.com/media/images/genexus_logo_svg.svg?timestamp=20181205190859" width="132">](https://www.genexus.com/es/)
 
 <!---
 ### 🌱 I’m currently learning:
