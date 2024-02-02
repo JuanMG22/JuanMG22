@@ -16,7 +16,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/)
 [<img src="https://user-images.githubusercontent.com/88951217/159796872-4f50285b-633b-486e-80ba-d8efc50389c8.png" width="48">](https://github.com/nfl/react-helmet)
 [<img src="https://i.stack.imgur.com/C9301.png" width="48">](https://getbootstrap.com/) 
-[<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48">](https://tailwindcss.com/) 
+[<img src="https://github.com/JuanMG22/JuanMG22/assets/88951217/f71a222b-c9cf-4c93-839c-86c3f0d7d7a7" width="48">](https://tailwindcss.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
 [<img src="https://i.pinimg.com/originals/34/20/e5/3420e571b3d7a4a348d8fad91e3bfda4.png" width="48">](https://jquery.com/) 
 
